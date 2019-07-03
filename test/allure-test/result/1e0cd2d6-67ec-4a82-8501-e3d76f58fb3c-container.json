@@ -1,0 +1,1 @@
+{"uuid": "099be0db-652b-4b50-8cbd-9bc4383a1c94", "children": ["ecd19299-9e3a-4290-be0c-d04898efeba1"], "befores": [{"name": "start", "status": "passed", "steps": [{"name": "step one:打开浏览器输入百度网址", "status": "passed", "start": 1562136832211, "stop": 1562136833336}], "start": 1562136832211, "stop": 1562136833336}], "start": 1562136832211, "stop": 1562136836990}
